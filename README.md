@@ -1,11 +1,11 @@
-BR/PT: Fala comigo, aqui é o Erik! /n
-Hey, it's Erik here!
+BR/PT: Fala comigo, aqui é o Erik! 
+EN/US: Hey, it's Erik here! /
 
-Inglês atualmente morando no Brasil!
-Englishman in Brazil!
+BR/PT: Inglês atualmente morando no Brasil! / 
+EN/GB: Englishman in Brazil! 
 
-No quarto semestre e atualmente estudando Ciência de Dados e Inteligência Artificial.
-Fourth semester student currently majoring in Data Science and Artificial Inteligence.
+BR/PT: No quarto semestre e atualmente estudando Ciência de Dados e Inteligência Artificial.
+EN/GB: Fourth semester student currently majoring in Data Science and Artificial Inteligence.
 
 <!---
 erikhenzdias/erikhenzdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
