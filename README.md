@@ -1,4 +1,4 @@
-Fala comigo, aqui é o Erik!
+BR/PT: Fala comigo, aqui é o Erik! /n
 Hey, it's Erik here!
 
 Inglês atualmente morando no Brasil!
