@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @erikhenzdias
-- 👀 I’m interested in football, tech and stuff alike.
-- 🌱 I’m currently learning C, R and Python.
-- 💞️ I’m looking to collaborate on nothing specific for now.
-- 📫 Since I'm still putting some projects together, I don't currently have any specifics to add here.
+Fala comigo, aqui é o Erik!
+Hey, it's Erik here!
+
+Inglês atualmente morando no Brasil!
+Englishman in Brazil!
+
+No quarto semestre e atualmente estudando Ciência de Dados e Inteligência Artificial.
+Fourth semester student currently majoring in Data Science and Artificial Inteligence.
 
 <!---
 erikhenzdias/erikhenzdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
